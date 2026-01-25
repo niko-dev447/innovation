@@ -1,1 +1,1411 @@
-
+[
+  {
+    "year": "2025",
+    "title": "Making Sense of Supply Chain Chaos with Connected Data",
+    "context": "LogistikCongress | Bayern (Programm 2025)",
+    "cat": "lobster",
+    "medium": "Talk",
+    "desc": "Programmpunkt (16:50–17:30) beim LogistikCongress | Bayern am 20.11.2025 im Kongresszentrum Meistersingerhalle Nürnberg.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.c-na.de/lcb/"
+      }
+    ],
+    "tags": [
+      "Supply Chain",
+      "Connected Data",
+      "Conference"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2024",
+    "title": "Logistics Summit Pitch",
+    "context": "Düsseldorf / Startup Awards",
+    "cat": "lobster",
+    "medium": "Vortrag / Jury",
+    "desc": "Bewertung von Logistik-Innovationen und SaaS-Modellen.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "logistics-summit.de"
+      }
+    ],
+    "tags": [
+      "#Innovation",
+      "#SaaS"
+    ]
+  },
+  {
+    "year": "2024",
+    "title": "Digitalisierung ist der Schlüssel",
+    "context": "MM Logistik (Vogel) – Interview",
+    "cat": "lobster",
+    "medium": "Interview",
+    "desc": "Interview vom 17.12.2024 über Datenplattformen, No-Code und die Rolle der „Logistics Cloud“ als Marktplatz für digitale Dienste.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.mm-logistik.vogel.de/datenplattformen-digitalisierung-ist-der-schluessel-a-e403a785e15aaefc42323488c3f3f106/"
+      }
+    ],
+    "tags": [
+      "Digitalization",
+      "Data Platforms",
+      "No-Code",
+      "Visibility"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2024",
+    "title": "Mehr neue Aufträge durch digitale Vernetzung",
+    "context": "DVZ – Artikel",
+    "cat": "lobster",
+    "medium": "Article",
+    "desc": "Artikel vom 12.11.2024 (DVZ) zur These, dass digitale Vernetzung zu mehr Aufträgen führt (Zuschreibung an Niko Hossain / Lobster Logistics Cloud).",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.dvz.de/technologie/software/detail/news/mehr-neue-auftraege-durch-digitale-vernetzung.html"
+      }
+    ],
+    "tags": [
+      "Networking",
+      "Digital",
+      "Order Management"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2024",
+    "title": "Logistics Summit Startup Awards (Teil 2) – logistics.cloud",
+    "context": "Logistics Summit (Speaker/Track)",
+    "cat": "lobster",
+    "medium": "Event",
+    "desc": "Auftritt/Listing im Logistics Summit Programm-Kontext (Main Stage: Startup Awards, Teil 2 – logistics.cloud) über das Speaker-Profil.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://logisticssummit.de/speaker/niko-hossain"
+      }
+    ],
+    "tags": [
+      "Logistics Summit",
+      "Startup Awards",
+      "Pitch"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2024",
+    "title": "LinkedIn: Hinweis auf MM LOGISTIK Interview (Publikations-Post)",
+    "context": "LinkedIn Post (Niko Hossain)",
+    "cat": "lobster",
+    "medium": "Social",
+    "desc": "LinkedIn-Post: Verweis auf das in MM LOGISTIK veröffentlichte Interview zur Lobster logistics cloud (mit Link-Shortener).",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.linkedin.com/posts/niko-hossain-724504a7_a-great-way-to-start-the-week-is-to-receive-activity-7274348813820067841-G_AV"
+      },
+      {
+        "label": "LinkedIn post",
+        "url": "https://www.linkedin.com/posts/niko-hossain-724504a7_a-great-way-to-start-the-week-is-to-receive-activity-7274348813820067841-G_AV"
+      }
+    ],
+    "tags": [
+      "LinkedIn",
+      "MM Logistik",
+      "Interview"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2024",
+    "title": "YouTube: Voices of the Scope Community – Niko Hossain & Alina Rosenberg (logistics.cloud)",
+    "context": "Riege Software / Scope Community",
+    "cat": "lobster",
+    "medium": "Video (YouTube)",
+    "desc": "YouTube-Interview »Voices of the Scope Community« (recorded 29.04.2024) mit Niko Hossain (logistics.cloud) und Alina Rosenberg.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.youtube.com/watch?v=MoZV57hgaXs"
+      }
+    ],
+    "tags": [
+      "YouTube",
+      "Interview",
+      "Scope Community"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2023",
+    "title": "Von der Idee zum Datennetzwerk",
+    "context": "Uni Regensburg",
+    "cat": "lobster",
+    "medium": "Gastvortrag",
+    "desc": "Wissensvermittlung über globale Datenökosysteme.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Akademia"
+      }
+    ],
+    "tags": [
+      "#Netzwerk",
+      "#Strategy"
+    ]
+  },
+  {
+    "year": "2023",
+    "title": "Logistics.cloud – von einer innovativen Idee zum globalen Logistikdaten­netzwerk!",
+    "context": "Universität Regensburg (Gastvortrag, BWL Controlling & Logistik)",
+    "cat": "lobster",
+    "medium": "Guest Lecture",
+    "desc": "Gastvortrag im Rahmen der Bachelor-Vorlesung „Logistik“: Dienstag, 13.06.2023, 12 Uhr ct., Raum H 11.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.uni-regensburg.de/assets/wirtschaftswissenschaften/bwl-otto/hossain.pdf"
+      }
+    ],
+    "tags": [
+      "Logistics.cloud",
+      "Platform",
+      "Data Network",
+      "Lecture"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2023",
+    "title": "Lobster Logistics Cloud senkt Kosten und den Stromverbrauch",
+    "context": "AMD – Case Study",
+    "cat": "lobster",
+    "medium": "Case Study",
+    "desc": "Fallstudie zu Infrastruktur/Performance (AMD EPYC) inkl. Zitat von Niko Hossain zur Performance- und CO₂-Verbesserung.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.amd.com/de/resources/case-studies/lobster-logistics-cloud.html"
+      }
+    ],
+    "tags": [
+      "Case Study",
+      "IT",
+      "Performance",
+      "Sustainability"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2023",
+    "title": "Inside Scope 2023 – Speaker/Contributor",
+    "context": "Riege Inside Scope 2023 (Düsseldorf)",
+    "cat": "lobster",
+    "medium": "Event",
+    "desc": "Riege berichtet am 02.10.2023 über Inside Scope 2023; Niko Hossain wird als einer der Speaker/Beitragenden genannt.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.riege.com/company/press/press-releases/inside-scope-2023"
+      }
+    ],
+    "tags": [
+      "Inside Scope",
+      "Riege",
+      "Community",
+      "Event"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2022",
+    "title": "IAA TRANSPORTATION: Präsentation logistics.cloud & Panel KRONE Denkfabrik",
+    "context": "IAA TRANSPORTATION (KRONE Denkfabrik Session/Panel)",
+    "cat": "lobster",
+    "medium": "Event / Panel",
+    "desc": "LinkedIn-Post (2022): Auftritt bei der IAA TRANSPORTATION – Präsentation logistics.cloud sowie Panel-Diskussion bei der KRONE Commercial Vehicle Group »Denkfabrik« zum Thema Datenaustausch.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.linkedin.com/posts/niko-hossain-724504a7_logistics-data-cloud-activity-6978376323794673664-A0Sp"
+      },
+      {
+        "label": "LinkedIn confirmation",
+        "url": "https://www.linkedin.com/posts/niko-hossain-724504a7_logistics-data-cloud-activity-6978376323794673664-A0Sp"
+      }
+    ],
+    "tags": [
+      "IAA",
+      "Denkfabrik",
+      "Data Exchange",
+      "Conference"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2022",
+    "title": "KRONE Trailer Wochenplan: Start-up Pitch & Datenaustausch-Session mit logistics.cloud",
+    "context": "KRONE IAA Microsite »Mission Beyond Zero«",
+    "cat": "lobster",
+    "medium": "Event Program",
+    "desc": "Programmseite mit Slots u.a. »Start-up Pitches« (logistics.cloud – Niko Hossain) sowie Session »Vernetzung in der Transportbranche durch Datenaustausch« (Panel mit Niko Hossain).",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.mission-beyond-zero.com/wochenplan"
+      }
+    ],
+    "tags": [
+      "IAA",
+      "Program",
+      "Pitch",
+      "Panel"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2022",
+    "title": "Partnerschaft: leogistics und logistics.cloud schmieden Allianz",
+    "context": "leogistics Pressemitteilung",
+    "cat": "lobster",
+    "medium": "Press Release (PDF)",
+    "desc": "Pressemitteilung vom 28.09.2022 zur Partnerschaft leogistics (myleo/dsc) und logistics.cloud; Zitat von Niko Hossain zur standardisierten Vernetzung und Datenintegration.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://leogistics.com/wp-content/uploads/2022/09/220824_Pressemitteilung_Partnerschaft_LogisticsCloud.pdf"
+      }
+    ],
+    "tags": [
+      "Partnership",
+      "Integration",
+      "Supply Chain",
+      "Press"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2022",
+    "title": "E-3 Magazin: Partnership / Quote zu Logistics-Cloud Connectivity",
+    "context": "E-3 Magazin (Nov 2022)",
+    "cat": "lobster",
+    "medium": "Article",
+    "desc": "E-3 Magazin (Nov 2022): Niko Hossain (CEO Logistics-Cloud) und André Käber (CEO leogistics) zur logistics.cloud als Connectivity-Plattform für standardisierbare Vernetzung.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://e3mag.com/en/mergers-acquisitions-partnerships-nov22/"
+      }
+    ],
+    "tags": [
+      "Connectivity",
+      "Partnership",
+      "E-3 Magazine"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2021",
+    "title": "Automatisierung der Visibility",
+    "context": "IT-ZOOM",
+    "cat": "lobster",
+    "medium": "Fachartikel",
+    "desc": "Echtzeit-Transparenz in globalen Ketten durch Datenintegration.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "IT-ZOOM"
+      }
+    ],
+    "tags": [
+      "#Visibility",
+      "#Automation"
+    ]
+  },
+  {
+    "year": "2021",
+    "title": "Logistics as a Service for everyone with platform-based data integration",
+    "context": "Deutscher Logistik-Kongress 2021 (hybrid, Berlin)",
+    "cat": "lobster",
+    "medium": "Talk",
+    "desc": "Fachsequenz am Donnerstag, 21.10.2021 um 11:00 Uhr mit Vortrag von Niko Hossain (CEO Lobster Logistics Cloud).",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.firmenpresse.de/pressinfo1929616-ueber-nur-eine-anbindung-mit-allen-logistik-partnern-und-loesungen-vernetzt.html"
+      }
+    ],
+    "tags": [
+      "Platform",
+      "Data Integration",
+      "Logistics as a Service",
+      "Conference"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2021",
+    "title": "Logistics Cloud und what3words kooperieren (Last-Mile)",
+    "context": "IT-Zoom / dv-dialog",
+    "cat": "lobster",
+    "medium": "Article",
+    "desc": "Artikel vom 25.01.2021 zur Kooperation von Logistics Cloud und what3words; Zitat von Niko Hossain zur Übersetzung ungenauer Standortangaben in klare Sprache.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.it-zoom.de/dv-dialog/e/bessere-logistik-auf-der-letzten-meile-27453/"
+      }
+    ],
+    "tags": [
+      "Last Mile",
+      "what3words",
+      "Data",
+      "Partnership"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2021",
+    "title": "Technology for Future Award 2021 (Digital Pioneers) – logistics.cloud Pitch",
+    "context": "CNA Logistik Forum 2021 (Nürnberg)",
+    "cat": "lobster",
+    "medium": "Award / Pitch",
+    "desc": "Beim CNA Logistik Forum 2021 gewinnt Niko Hossain (Lobster Logistics Cloud) den Technology for Future Award 2021; vorgestellt wurde die Plattform logistics.cloud.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://trans.info/de/das-new-normal-nachhaltig-resilient-gestalten-263090"
+      }
+    ],
+    "tags": [
+      "Award",
+      "Pitch",
+      "Supply Chain",
+      "Visibility"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2021",
+    "title": "Technology for Future Award 2021 – Nachbericht (Fraunhofer IIS)",
+    "context": "Fraunhofer IIS-SCS Nachbericht Logistik Forum Nürnberg 2021",
+    "cat": "lobster",
+    "medium": "Report (PDF)",
+    "desc": "Nachbericht (PDF) zum Logistik Forum 2021: Auszeichnung »Technology for Future | Digital Pioneers« für Niko Hossain; logistics.cloud als cloudbasierte SCM-Plattform.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.iis.fraunhofer.de/content/dam/iis/de/doc/PR/pm_2021/scs/nachbericht-logistikforum2021/211201_Fraunhofer_IIS-SCS_Nachbericht_Logistik-Forum-Nuernberg-2021.pdf"
+      }
+    ],
+    "tags": [
+      "Fraunhofer",
+      "Award",
+      "Conference"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2021",
+    "title": "Kooperation logistics.cloud & NIC-place (Supply Chain Visibility Automation)",
+    "context": "Software-Journal / NIC-place",
+    "cat": "lobster",
+    "medium": "Press Release",
+    "desc": "Meldung vom 05.05.2021 zur Kooperation von logistics.cloud und NIC-place; Fokus auf Fusion von Live- und Planungsdaten sowie Automatisierung der Visibility; Zitate von Niko Hossain.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.software-journal.de/2021/05/05/logistics-cloud-und-nic-place-integrieren-zukunftsweisende-schluesseltechnologien-zur-automatisierung-von-supply-chain-visibility/"
+      }
+    ],
+    "tags": [
+      "Visibility",
+      "Automation",
+      "Partnership",
+      "ETA"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2020",
+    "title": "Personalie: Von Lufthansa zu Lobster",
+    "context": "Lobster Logistics Cloud (Sprecher der Geschäftsführung)",
+    "cat": "lobster",
+    "medium": "Press",
+    "desc": "Meldung vom 29.09.2020: Niko Hossain wird seit September 2020 Sprecher der Geschäftsführung der Lobster Logistics Cloud und verantwortet Strategie, Vertrieb und Investor Relations.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://logistik-heute.de/news/personalie-von-lufthansa-zu-lobster-31714.html"
+      }
+    ],
+    "tags": [
+      "Lobster",
+      "Career",
+      "Management",
+      "Logistics"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2020",
+    "title": "Neuer Geschäftsführer für die Lobster Logistics Cloud GmbH",
+    "context": "IT-Management.today – Personalie",
+    "cat": "lobster",
+    "medium": "Press",
+    "desc": "Meldung vom 24.09.2020: Niko Hossain wird neuer Geschäftsführer / Sprecher der Geschäftsführung der Lobster Logistics Cloud.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "https://www.it-management.today/neuer-geschaeftsfuehrer-fuer-die-lobster-logistics-cloud-gmbh/"
+      }
+    ],
+    "tags": [
+      "Lobster",
+      "Career",
+      "Management"
+    ],
+    "status": "todo"
+  },
+  {
+    "year": "2017",
+    "title": "Logistics Data Cloud",
+    "context": "Lufthansa Cargo / FRA",
+    "cat": "lufthansa",
+    "medium": "Strategieprojekt",
+    "desc": "Aufbau eines neutralen Daten-Ökosystems für die Luftfracht.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "LCAG Archive"
+      }
+    ],
+    "tags": [
+      "#Cloud",
+      "#Ecosystem"
+    ]
+  },
+  {
+    "year": "2015",
+    "title": "Industrie 4.0 im Air Cargo",
+    "context": "DHL Forum / Leipzig",
+    "cat": "lufthansa",
+    "medium": "Fachvortrag",
+    "desc": "Cyber-Physical Systems in der operativen Transportsteuerung.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Pinterest Board"
+      }
+    ],
+    "tags": [
+      "#Industry40",
+      "#AirCargo"
+    ]
+  },
+  {
+    "year": "2015",
+    "title": "Teilen und Gewinnen",
+    "context": "Forschungsagenda Logistik",
+    "cat": "fraunhofer",
+    "medium": "Presse",
+    "desc": "Hossain, N.: Teilen und Gewinnen, Forschungsagenda Logistik, DVV Media Group GmbH, 2015, Hamburg",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Forschungsagenda Logistik"
+      }
+    ],
+    "tags": [
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2014",
+    "title": "Lufthansa Realtime Tracking",
+    "context": "Berlin",
+    "cat": "lufthansa",
+    "medium": "Internet der Dinge",
+    "desc": "Hossain, N.: Lufthansa Realtime Tracking, Internet der Dinge, DOAG News 2/ 2014, DOAG Dienstleistungen GmbH, 2014, Berlin",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Internet der Dinge"
+      }
+    ],
+    "tags": [
+      "#IoT",
+      "#Tracking"
+    ]
+  },
+  {
+    "year": "2014",
+    "title": "Realtime Tracking – Innovativer Trackingservice als Umsetzungsbeispiel des Serviceengineerings im Umfeld des Internets der Dinge",
+    "context": "Hannover",
+    "cat": "fraunhofer",
+    "medium": "CEMAT BVL Fachforen",
+    "desc": "Hossain, N.: Realtime Tracking – Innovativer Trackingservice als Umsetzungsbeispiel des Serviceengineerings im Umfeld des Internets der Dinge, CEMAT BVL Fachforen, 21.05.2014, Hannover",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "CEMAT BVL Fachforen"
+      }
+    ],
+    "tags": [
+      "#Tracking"
+    ]
+  },
+  {
+    "year": "2014",
+    "title": "Weltweite Transparenz",
+    "context": "Zukunftskongress Logistik",
+    "cat": "lufthansa",
+    "medium": "Präsentation",
+    "desc": "IoT-Konzepte für die globale Supply Chain Visibility.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Pinterest Archive"
+      }
+    ],
+    "tags": [
+      "#IoT",
+      "#Visibility"
+    ]
+  },
+  {
+    "year": "2013",
+    "title": "Paletten mit Peilung",
+    "context": "Technology Review",
+    "cat": "fraunhofer",
+    "medium": "Presse",
+    "desc": "Froitzheim, Ulf J.: Paletten mit Peilung, Technology Review,  19.08.2013, Heise Medien GmbH & Co. KG, Hannover",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Technology Review"
+      }
+    ],
+    "tags": [
+      "#Publication"
+    ]
+  },
+  {
+    "year": "2013",
+    "title": "Smart ULDs - Light, Smart, Safe",
+    "context": "FachPack / Nürnberg",
+    "cat": "lufthansa",
+    "medium": "Fachvortrag",
+    "desc": "Digitale Lademittel als Datengeber der Zukunft.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "FachPack Archive"
+      }
+    ],
+    "tags": [
+      "#SmartULD",
+      "#Hardware"
+    ]
+  },
+  {
+    "year": "2012",
+    "title": "Keynote: Fostering IoT",
+    "context": "Wuxi, China",
+    "cat": "fraunhofer",
+    "medium": "Int. Keynote",
+    "desc": "Strategische Bedeutung von IoT für Weltmärkte.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Pinterest / China"
+      }
+    ],
+    "tags": [
+      "#Global",
+      "#Innovation"
+    ]
+  },
+  {
+    "year": "2012",
+    "title": "Luftfracht global vernetzt",
+    "context": "Dortmund",
+    "cat": "lufthansa",
+    "medium": "Fachvortrag",
+    "desc": "Konnektivität als Wettbewerbsvorteil.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "ZKL Archive"
+      }
+    ],
+    "tags": [
+      "#Connectivity"
+    ]
+  },
+  {
+    "year": "2012",
+    "title": "Modern Unit Load Devices – A Cornerstone of Transport and Information Interface",
+    "context": "Dortmund",
+    "cat": "lufthansa",
+    "medium": "ISTA European Symposium 2012 - Distribution Packaging",
+    "desc": "Hossain, N.: Modern Unit Load Devices – A Cornerstone of Transport and Information Interface, ISTA European Symposium 2012 - Distribution Packaging, Dortmund",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "ISTA European Symposium 2012 - Distribution Packaging"
+      }
+    ],
+    "tags": [
+      "#Packaging",
+      "#EU"
+    ]
+  },
+  {
+    "year": "2012",
+    "title": "RFID - Loading RFID in air cargo",
+    "context": "Wise Media S.p.A. Milano",
+    "cat": "lufthansa",
+    "medium": "Presse",
+    "desc": "De la Giroday, S. B.: RFID - Loading RFID in air cargo, Wise Media S.p.A. Milano, Italy, 2012",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Wise Media S.p.A. Milano"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#AirCargo"
+    ]
+  },
+  {
+    "year": "2012",
+    "title": "Warum Funketiketten eine Gefahr für Verbraucher sind",
+    "context": "Süddeutsche Zeitung",
+    "cat": "fraunhofer",
+    "medium": "Presse",
+    "desc": "Martin-Jung, H.: Warum Funketiketten eine Gefahr für Verbraucher sind, Süddeutsche Zeitung, Süddeutscher Verlag, München, 18. Januar 2012",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Süddeutsche Zeitung"
+      }
+    ],
+    "tags": [
+      "#EU"
+    ]
+  },
+  {
+    "year": "2011",
+    "title": "Das  Versandgut wird selbstständig",
+    "context": "2011",
+    "cat": "fraunhofer",
+    "medium": "Logistik für Unternehmen",
+    "desc": "Hossain N.; Witte M.: Das  Versandgut wird selbstständig, Logistik für Unternehmen, Springer Verlag Düsseldorf, 2011",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Logistik für Unternehmen"
+      }
+    ],
+    "tags": [
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2011",
+    "title": "Die Welt wird smart",
+    "context": "München",
+    "cat": "fraunhofer",
+    "medium": "ISIS RFID Special Report",
+    "desc": "Hossain, N.: Die Welt wird smart, ISIS RFID Special Report, 01/2011, München",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "ISIS RFID Special Report"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#SmartSystems"
+    ]
+  },
+  {
+    "year": "2011",
+    "title": "Intelligent Objects",
+    "context": "The internet of things / Networking objects",
+    "cat": "fraunhofer",
+    "medium": "Presse",
+    "desc": "Hossain, N.; et.al: Intelligent Objects, The internet of things / Networking objects, Researching Communications, Alliance of Scientific Organizations, Deutsche Forschungsgemeinschaft, Bonn, 2011",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "The internet of things / Networking objects"
+      }
+    ],
+    "tags": [
+      "#IoT",
+      "#EU"
+    ]
+  },
+  {
+    "year": "2011",
+    "title": "Intelligente Ladungsträger als Beitrag zu wandelbaren Logistiksystemen im Internet der Dinge",
+    "context": "S. 215-219",
+    "cat": "fraunhofer",
+    "medium": "Buch / Bericht",
+    "desc": "Hossain N.: Intelligente Ladungsträger als Beitrag zu wandelbaren Logistiksystemen im Internet der Dinge, S. 215-219, Jahrbuch Logistik 2011, Free Beratung GmbH, Korschenbroich, 2011",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "S. 215-219"
+      }
+    ],
+    "tags": [
+      "#IoT",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2011",
+    "title": "Künstliche Intelligenz im Flugzeugbauch",
+    "context": "MM Logistik",
+    "cat": "fraunhofer",
+    "medium": "Presse",
+    "desc": "Weber, R.: Künstliche Intelligenz im Flugzeugbauch, MM Logistik, Vogel Business Media GmbH & Co. KG, Würzburg, 2011",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "MM Logistik"
+      }
+    ],
+    "tags": [
+      "#EU",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2011",
+    "title": "RFID Update",
+    "context": "Hamburg",
+    "cat": "fraunhofer",
+    "medium": "Internationales Verkehrswesen 1 / 2011",
+    "desc": "Hossain, N.; Hille, A.: RFID Update, Internationales Verkehrswesen 1 / 2011, S. 61; DVV Media Group GmbH, Hamburg",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Internationales Verkehrswesen 1 / 2011"
+      }
+    ],
+    "tags": [
+      "#RFID"
+    ]
+  },
+  {
+    "year": "2011",
+    "title": "eSense Smart Sensors",
+    "context": "Dresden",
+    "cat": "fraunhofer",
+    "medium": "Fachartikel",
+    "desc": "GSM/GPS Applikationen für intelligente Logistiksysteme.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "ResearchGate"
+      }
+    ],
+    "tags": [
+      "#Sensors",
+      "#GPS"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "Applemainia im Lager",
+    "context": "Logistik Heute",
+    "cat": "fraunhofer",
+    "medium": "Presse",
+    "desc": "Weber, R.; Hossain, N.: Applemainia im Lager, Logistik Heute, Huss Verlag, München, 11/2010",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Logistik Heute"
+      }
+    ],
+    "tags": [
+      "#EU",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "Autonomes Container-Netz",
+    "context": "Berlin / BMWi",
+    "cat": "lufthansa",
+    "medium": "Projektvorstellung",
+    "desc": "Dyconet: Selbststeuernde energieautarke Lademittel.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "BMWi Archive"
+      }
+    ],
+    "tags": [
+      "#Autonomy",
+      "#KI"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "Cola als Härtetest",
+    "context": "Scinexx.de Das Wissensmagazin",
+    "cat": "fraunhofer",
+    "medium": "Presse",
+    "desc": "Niesing, B.: Cola als Härtetest, Scinexx.de Das Wissensmagazin,  Düsseldorf, 15.01.2010",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Scinexx.de Das Wissensmagazin"
+      }
+    ],
+    "tags": [
+      "#Publication"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "Dynamisches",
+    "context": "Berlin",
+    "cat": "lufthansa",
+    "medium": "autonomes",
+    "desc": "Hossain, N.: Dynamisches, autonomes, erergieautarkes Luftfracht-Container-Netzwerk, Autonomik Auftaktkonferenz, 17.05.2010, Berlin",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "autonomes"
+      }
+    ],
+    "tags": [
+      "#AirCargo"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "Evaluierung und Bewertung eines High-Level AutoID-Konzeptes für die Lufthansa Cargo AG",
+    "context": "Januar 2010",
+    "cat": "lufthansa",
+    "medium": "Buch / Bericht",
+    "desc": "Hossain, N.; Anderseck, B.: Evaluierung und Bewertung eines High-Level AutoID-Konzeptes für die Lufthansa Cargo AG, Januar 2010, Dortmund",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Januar 2010"
+      }
+    ],
+    "tags": [
+      "#Publication"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "HMD Praxis der Wirtschaftsinformatik",
+    "context": "Volume 47",
+    "cat": "fraunhofer",
+    "medium": "Buch / Bericht",
+    "desc": "Hossain, N.: HMD Praxis der Wirtschaftsinformatik, Volume 47, Issue 2, pp 120-122, Springer Gabler Verlag, Wiesbaden, 2010",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Volume 47"
+      }
+    ],
+    "tags": [
+      "#Publication"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "Intelligenz liegt in der Luft",
+    "context": "München",
+    "cat": "fraunhofer",
+    "medium": "ISIS RFID Special Report",
+    "desc": "Hossain, N.; Witte, M.: Intelligenz liegt in der Luft, ISIS RFID Special Report, 02/2010, München",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "ISIS RFID Special Report"
+      }
+    ],
+    "tags": [
+      "#RFID"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "Market Analysis Consumption Report",
+    "context": "RACE networkRFID",
+    "cat": "fraunhofer",
+    "medium": "Buch / Bericht",
+    "desc": "Hossain, N.; et.al: Market Analysis Consumption Report, RACE networkRFID, FP7 Thematic Network, Co-funded by the European Commission, Dortmund, 2010",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "RACE networkRFID"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#EU"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "Perspectives on the IoT",
+    "context": "Tokio, Japan",
+    "cat": "fraunhofer",
+    "medium": "Int. Vortrag",
+    "desc": "Internationale Standardisierung des Internets der Dinge.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Pinterest / Japan"
+      }
+    ],
+    "tags": [
+      "#Tokyo",
+      "#IoT"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "RACE Network RFID",
+    "context": "Mülheim",
+    "cat": "fraunhofer",
+    "medium": "Vortrag",
+    "desc": "Raising Awareness for Competitiveness in Europe.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "EU Archive"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#Europe"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "Cola mit Chips",
+    "context": "München",
+    "cat": "fraunhofer",
+    "medium": "Logistik entdecken",
+    "desc": "Hossain, N.; Hille, A.; Neuhaus, R.F.; Klein, M.: Cola mit Chips, Logistik entdecken, ISIS-AutoID RFID special, 2009, München",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Logistik entdecken"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#EU",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "Funkchips erobern den Alltag",
+    "context": "Handelsblatt",
+    "cat": "fraunhofer",
+    "medium": "Presse",
+    "desc": "Schürmann, H.; Löwer, C.: Funkchips erobern den Alltag, Handelsblatt, 09.09.2009",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Handelsblatt"
+      }
+    ],
+    "tags": [
+      "#Publication"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "Intelligente Verpackung durch den Einsatz von elektronischen Labeln",
+    "context": "Baden-Baden",
+    "cat": "fraunhofer",
+    "medium": "Blasformen Tagung 2009",
+    "desc": "Hossain, N.: Intelligente Verpackung durch den Einsatz von elektronischen Labeln, Blasformen Tagung 2009, 15.-16.05.2009, Baden-Baden",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Blasformen Tagung 2009"
+      }
+    ],
+    "tags": [
+      "#Packaging"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "Market analysis consumption report",
+    "context": "RACE Network RFID",
+    "cat": "fraunhofer",
+    "medium": "Buch / Bericht",
+    "desc": "Hossain, N.: Market analysis consumption report, RACE Network RFID, 31.08.2009, Dortmund",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "RACE Network RFID"
+      }
+    ],
+    "tags": [
+      "#RFID"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "RFID 2.0 – Praxislösungen für die Getränkelogistik",
+    "context": "Nürnberg",
+    "cat": "fraunhofer",
+    "medium": "B&B Guide",
+    "desc": "Lammers, W.; Hossain, N.; Hille, A.: RFID 2.0 – Praxislösungen für die Getränkelogistik, B&B Guide, 2009, Nürnberg",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "B&B Guide"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "RFID Tracking: Coca-Cola",
+    "context": "10. ECR Tag",
+    "cat": "fraunhofer",
+    "medium": "Case Study",
+    "desc": "Tracking von Einweggetränken in Echtzeit.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Pinterest"
+      }
+    ],
+    "tags": [
+      "#CocaCola",
+      "#Retail"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "RFID in Transport und Logistik",
+    "context": "Priem am Chiemsee",
+    "cat": "fraunhofer",
+    "medium": "Cluster-Seminar Logistik – RFID Chancen und Risiken in KMU",
+    "desc": "Hossain, N.; Hoppe, F.: RFID in Transport und Logistik, Cluster-Seminar Logistik – RFID Chancen und Risiken in KMU, 26.02.2009, Priem am Chiemsee",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Cluster-Seminar Logistik – RFID Chancen und Risiken in KMU"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "Research for The IoT",
+    "context": "Fraunhofer IML",
+    "cat": "fraunhofer",
+    "medium": "Bericht",
+    "desc": "Grundlagenforschung zur Vision vernetzter Objekte.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Fraunhofer IML"
+      }
+    ],
+    "tags": [
+      "#Research"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "Strategic Research Agenda",
+    "context": "Brüssel / EU",
+    "cat": "fraunhofer",
+    "medium": "Strategiepapier",
+    "desc": "Vorgabe für die digitale Agenda der EU-Kommission.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "EU Commission"
+      }
+    ],
+    "tags": [
+      "#EU",
+      "#Policy"
+    ]
+  },
+  {
+    "year": "2009",
+    "title": "Wie RFID die Luftfrachtindustrie verändert",
+    "context": "2009",
+    "cat": "lufthansa",
+    "medium": "Logistik für Unternehmen",
+    "desc": "Hossain, N; Witte, M.: Wie RFID die Luftfrachtindustrie verändert, Logistik für Unternehmen, Springer Verlag Düsseldorf, 2009",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Logistik für Unternehmen"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#AirCargo",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2008",
+    "title": "Alles fließt",
+    "context": "Nürnberg",
+    "cat": "fraunhofer",
+    "medium": "alles in Bewegung",
+    "desc": "Lammers, W.; Hossain, N.; Hille, A.: Alles fließt, alles in Bewegung, Getränke!, 02/2008, Nürnberg",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "alles in Bewegung"
+      }
+    ],
+    "tags": [
+      "#Publication"
+    ]
+  },
+  {
+    "year": "2008",
+    "title": "Designing RFID Applications",
+    "context": "Monografie",
+    "cat": "fraunhofer",
+    "medium": "Buch / Bericht",
+    "desc": "Meiss, C.; Hossain, N.: Designing RFID Applications, Monografie, Interreg, RFID4SME, 2008",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Monografie"
+      }
+    ],
+    "tags": [
+      "#RFID"
+    ]
+  },
+  {
+    "year": "2008",
+    "title": "Idee Entwicklung und Bedeutung des openID-centers",
+    "context": "Dortmund",
+    "cat": "fraunhofer",
+    "medium": "Fachverband Informationsmanagement und Logistik",
+    "desc": "Hossain, N.: Idee Entwicklung und Bedeutung des openID-centers, Fachverband Informationsmanagement und Logistik, 21.11.2008, Dortmund",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Fachverband Informationsmanagement und Logistik"
+      }
+    ],
+    "tags": [
+      "#EU",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2008",
+    "title": "IoT Roadmap 2010",
+    "context": "Brüssel / INFSO",
+    "cat": "fraunhofer",
+    "medium": "Roadmap",
+    "desc": "Zukunftsvision der EU-Kommission für das Jahr 2010.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Pinterest"
+      }
+    ],
+    "tags": [
+      "#Future",
+      "#Roadmap"
+    ]
+  },
+  {
+    "year": "2008",
+    "title": "Selbststeuernde Systeme",
+    "context": "Dortmund",
+    "cat": "fraunhofer",
+    "medium": "Wissenschaft",
+    "desc": "Agentensysteme im openID-Center des IML.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Scholar"
+      }
+    ],
+    "tags": [
+      "#AgentSystems"
+    ]
+  },
+  {
+    "year": "2008",
+    "title": "openID-center-Plattform für Industrie und Forschung",
+    "context": "München",
+    "cat": "fraunhofer",
+    "medium": "ISIS RFID Special Report",
+    "desc": "Hossain, N.; Meiss, C.; Hille, A.: openID-center-Plattform für Industrie und Forschung, ISIS RFID Special Report, 2008, München",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "ISIS RFID Special Report"
+      }
+    ],
+    "tags": [
+      "#RFID"
+    ]
+  },
+  {
+    "year": "2007",
+    "title": "Faszination RFID - Integration von innovativen Logistiklösungen",
+    "context": "Heidelberg",
+    "cat": "fraunhofer",
+    "medium": "RFID Kompetenztag",
+    "desc": "Hossain, N.: Faszination RFID - Integration von innovativen Logistiklösungen, RFID Kompetenztag, 12.09.2007, Heidelberg",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "RFID Kompetenztag"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2007",
+    "title": "Handbuch Industrie 4.0",
+    "context": "Springer-Verlag",
+    "cat": "fraunhofer",
+    "medium": "Buchbeitrag",
+    "desc": "Standardwerk zur RFID-Integration in der Logistik.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Springer"
+      }
+    ],
+    "tags": [
+      "#Standard",
+      "#IoT"
+    ]
+  },
+  {
+    "year": "2007",
+    "title": "RFID in der Logistik; IT meets Science – RFID und die Kisten finden ihren Weg",
+    "context": "Dortmund",
+    "cat": "fraunhofer",
+    "medium": "25.10.2007",
+    "desc": "Hossain, N.: RFID in der Logistik; IT meets Science – RFID und die Kisten finden ihren Weg, 25.10.2007, Dortmund",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "25.10.2007"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2006",
+    "title": "Das Internet der Dinge – Erfolgsstrategien für den Mittelstand",
+    "context": "Karlsruhe",
+    "cat": "fraunhofer",
+    "medium": "Workshop Verpackungsinnovation durch Normung",
+    "desc": "Hossain, N.: Das Internet der Dinge – Erfolgsstrategien für den Mittelstand, Workshop Verpackungsinnovation durch Normung, 30.11.2006, Karlsruhe",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Workshop Verpackungsinnovation durch Normung"
+      }
+    ],
+    "tags": [
+      "#IoT",
+      "#Packaging"
+    ]
+  },
+  {
+    "year": "2006",
+    "title": "IoT Erfolgsstrategien KMU",
+    "context": "Karlsruhe",
+    "cat": "fraunhofer",
+    "medium": "Vortrag",
+    "desc": "Digitalisierungschancen für den deutschen Mittelstand.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Pinterest"
+      }
+    ],
+    "tags": [
+      "#KMU",
+      "#Beginnings"
+    ]
+  },
+  {
+    "year": "2006",
+    "title": "RFID im Fokus der Logistik – Anwendungen und Visionen",
+    "context": "Nürnberg",
+    "cat": "fraunhofer",
+    "medium": "LogIntern – Fachmesse für Interne Logistik 2006",
+    "desc": "Hossain, N.: RFID im Fokus der Logistik – Anwendungen und Visionen, LogIntern – Fachmesse für Interne Logistik 2006, 26.-28.09.2006, Nürnberg",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "LogIntern – Fachmesse für Interne Logistik 2006"
+      }
+    ],
+    "tags": [
+      "#RFID",
+      "#Logistics"
+    ]
+  },
+  {
+    "year": "2006",
+    "title": "Rückverfolgbarkeit EU 178",
+    "context": "Dortmund",
+    "cat": "fraunhofer",
+    "medium": "Wissenschaft",
+    "desc": "Analyse der EU-Verordnung zur Lebensmittelsicherheit.",
+    "source": [
+      {
+        "label": "Primary source",
+        "url": "Archive NH"
+      }
+    ],
+    "tags": [
+      "#EU-Law"
+    ]
+  }
+]
