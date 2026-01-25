@@ -142,6 +142,31 @@
     ],
     "status": "todo"
   },
+
+  {
+  "year": "2023",
+  "title": "Geteilte Daten sind doppelter Nutzen",
+  "context": "BVL Magazin Vier 2023",
+  "cat": "lobster",
+  "medium": "Article",
+  "desc": "Fachartikel zu Data Sharing und Plattformökosystemen in der Logistik. Niko Hossain (Geschäftsführer Lobster Logistics Cloud) beschreibt logistics.cloud als »WhatsApp für die Logistik« und betont die Rolle von KI, No-Code und Datentransparenz für resiliente Supply Chains.",
+  "source": [
+    {
+      "label": "BVL Magazin Vier 2023 (PDF)",
+      "url": "231103_BVL_Magazin_Vier_2023_logistics-cloud-geteilte-daten-sind-doppelter-nutzen.pdf"
+    }
+  ],
+  "tags": [
+    "Data Sharing",
+    "Logistics Platform",
+    "Supply Chain",
+    "KI",
+    "No-Code",
+    "BVL"
+  ],
+  "status": "final"
+  }
+  
   {
     "year": "2023",
     "title": "Von der Idee zum Datennetzwerk",
