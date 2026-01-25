@@ -1053,6 +1053,45 @@
       "#Europe"
     ]
   },
+{
+  "year": "2010",
+  "title": "openID-center: Geförderte Forschungsprojekte und Next-Decade-Roadmap",
+  "context": "Fraunhofer IML – openID-center / EffizienzCluster LogistikRuhr",
+  "cat": "research",
+  "medium": "Magazine",
+  "desc": "Einordnung hochkarätiger Forschungsprojekte (u.a. Autonomik-Kontext) und strategischer Forschungslinien zu wandelbaren Logistiksystemen, Diensteschichten/Architekturen und intelligenten Ladungsträgern im Sinne des ‚Internet der Dinge‘.",
+  "source": [
+    { "label": "LOGISTIK entdecken #10 (Fraunhofer IML, PDF)", "url": "./assets/Logistik_entdecken_10.pdf" }
+  ],
+  "tags": ["Internet of Things", "Autonomik", "Research", "Wandelbare Logistik", "openID-center"],
+  "status": "draft"
+},
+{
+  "year": "2010",
+  "title": "Policy & Standards: Mitarbeit in der European RFID Expert Group (EREG)",
+  "context": "AIM / europäischer Datenschutzprozess zu RFID",
+  "cat": "policy",
+  "medium": "Magazine",
+  "desc": "Erwähnung der Mitarbeit in der europäischen RFID-Expertengruppe (EREG) im Kontext von RFID-Datenschutz und europäischen Regularien.",
+  "source": [
+    { "label": "LOGISTIK entdecken #10 (Fraunhofer IML, PDF)", "url": "./assets/Logistik_entdecken_10.pdf" }
+  ],
+  "tags": ["Policy", "Standards", "EREG", "RFID", "Privacy", "EU"],
+  "status": "draft"
+},
+   {
+  "year": "2009",
+  "title": "RFID Integration bei SKF: GSP-Ladungsträger in metallischer Umgebung (Pilotbetrieb)",
+  "context": "Fraunhofer IML – openID-center / SKF",
+  "cat": "technology",
+  "medium": "Magazine",
+  "desc": "Industrie-Integrationsprojekt zur RFID-basierten Erfassung von GSP-Ladungsträgern in globalen Logistikprozessen. Fokus: robuste Identifikation in metallischer Umgebung und Integration über Wareneingang, Hochregallager, Kommissionierung und Warenausgang; Pilotbetrieb ab 2009.",
+  "source": [
+    { "label": "LOGISTIK entdecken #10 (Fraunhofer IML, PDF)", "url": "./assets/Logistik_entdecken_10.pdf" }
+  ],
+  "tags": ["RFID", "Integration", "Industrial Logistics", "SKF", "openID-center", "Visibility"],
+  "status": "draft"
+},
   {
     "year": "2009",
     "title": "Cola mit Chips",
