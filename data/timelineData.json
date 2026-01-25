@@ -640,6 +640,33 @@
     ]
   },
   {
+  "year": "2012",
+  "title": "Mission-critical IoT: Echtzeit-Visibility für lebensrettende Organtransporte",
+  "context": "Lufthansa Cargo – Technologieabteilung",
+  "cat": "technology",
+  "medium": "Press",
+  "desc": "Entwicklung eines mission-kritischen IoT-Systems zur Echtzeit-Überwachung von Spenderorganen im Lufttransport. Ziel war es, Chirurgen bereits vor Eintreffen des Organs Transparenz über Temperatur, Erschütterungen und Transportverlauf zu geben, um operative Entscheidungen frühzeitig treffen zu können – etwa den Eingriff anzupassen oder rechtzeitig ein alternatives Organ anzufordern, bevor medizinische Grenzwerte unbemerkt verletzt werden.",
+  "source": [
+    {
+      "label": "DVZ Online-Artikel – Leben retten (28.09.2012)",
+      "url": "https://www.dvz.de/unternehmen/luft/detail/news/leben-retten.html"
+    },
+    {
+      "label": "DVZ PDF (Archivfassung)",
+      "url": "./assets/Leben_retten_DVZ_2012.pdf"
+    }
+  ],
+  "tags": [
+    "IoT",
+    "Realtime Visibility",
+    "Mission Critical",
+    "Air Cargo",
+    "Medical Logistics",
+    "Decision Enablement"
+  ],
+  "status": "final"
+},
+  {
     "year": "2012",
     "title": "Keynote: Fostering IoT",
     "context": "Wuxi, China",
