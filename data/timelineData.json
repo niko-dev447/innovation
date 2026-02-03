@@ -19,6 +19,34 @@
     ],
     "status": "todo"
   },
+
+{
+  "year": "2024",
+  "title": "Strategische Partnerschaft: Lobster und Lufthansa Industry Solutions für ESG Performance Management",
+  "context": "Lobster Logistics Cloud & Lufthansa Industry Solutions",
+  "cat": "technology",
+  "medium": "Press",
+  "desc": "Strategische Partnerschaft zwischen Lobster und Lufthansa Industry Solutions zur Entwicklung eines integrierten ESG Performance Management Tools (EPACTO). Die Lösung kombiniert No-Code-Datenintegration über logistics.cloud mit automatisiertem ESG-Reporting (u.a. CSRD, CO₂-Bilanzierung und Lieferkettenrisiken) und adressiert die Twin Transformation aus Digitalisierung und Nachhaltigkeit.",
+  "source": [
+    {
+      "label": "Forum Nachhaltig Wirtschaften / IT-Management: Lobster und LHIND schließen strategische Partnerschaft (29.10.2024)",
+      "url": "./assets/Lobster_LHIND_Nachhaltigkeitsmanagement_2024.pdf",
+      "type": "press"
+    }
+  ],
+  "tags": [
+    "ESG",
+    "CSRD",
+    "Sustainability",
+    "No-Code",
+    "Data Platforms",
+    "logistics.cloud",
+    "Strategic Partnerships",
+    "Twin Transformation"
+  ],
+  "status": "final"
+},
+  
   {
     "year": "2024",
     "title": "Logistics Summit Pitch",
