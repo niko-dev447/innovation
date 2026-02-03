@@ -171,6 +171,33 @@
     "status": "todo"
   },
 
+{
+  "year": "2023",
+  "title": "AMD Case Study: Skalierung der Lobster Logistics Cloud mit AWS und AMD EPYC CPUs",
+  "context": "AMD + Lobster Logistics Cloud",
+  "cat": "technology",
+  "medium": "Case Study",
+  "desc": "Offizielle AMD Case Study zur Skalierung der Lobster Logistics Cloud auf AWS-Infrastruktur mit AMD EPYC™ CPUs. Die Plattform erzielt rund 15 % mehr Performance bei gleichzeitig ca. 10 % geringeren IT-Kosten und reduzierter CO₂-Bilanz. Die Studie zeigt reale Einsatzszenarien wie globale Covid-Impfstoff-Distribution mit Echtzeit-Temperaturüberwachung sowie den Ausbau der logistics.cloud als No-Code-Datenplattform für multimodale Supply Chains.",
+  "source": [
+    {
+      "label": "AMD Case Study: Lobster Logistics Cloud cuts IT costs and helps reduce carbon emissions (2023)",
+      "url": "./assets/amd.pdf",
+      "type": "case-study"
+    }
+  ],
+  "tags": [
+    "AMD EPYC",
+    "AWS",
+    "Cloud Infrastructure",
+    "No-Code",
+    "Supply Chain Visibility",
+    "Sustainability",
+    "Performance Optimization",
+    "logistics.cloud"
+  ],
+  "status": "final"
+},
+  
   {
   "year": "2023",
   "title": "Geteilte Daten sind doppelter Nutzen",
