@@ -553,6 +553,35 @@
     ],
     "status": "todo"
   },
+
+  {
+  "year": "2018",
+  "title": "Supply Chain der Zukunft: Digital, intelligent und vernetzt",
+  "context": "EY Supply Chain Days, Heidelberg",
+  "cat": "technology",
+  "medium": "Press",
+  "desc": "Bericht über die EY Supply Chain Days 2018 mit Fokus auf die digitale, vernetzte und datengetriebene Supply Chain. Thematisiert werden IoT-basierte Vernetzung, systematische Datenerfassung, Zeitreihen-Datenbanken sowie Anwendungsfälle wie Robotic Process Automation, KI-gestützte Prognosen und Risikomanagement zur frühzeitigen Erkennung von Krisen.",
+  "source": [
+    {
+      "label": "Artikel: Supply Chain der Zukunft – Digital, intelligent und vernetzt (04.07.2018)",
+      "url": "./assets/ey.png",
+      "type": "press"
+    }
+  ],
+  "tags": [
+    "Supply Chain Digitalisierung",
+    "IoT",
+    "Data Platforms",
+    "Artificial Intelligence",
+    "Risk Management",
+    "Connected Supply Chain",
+    "Thought Leadership"
+  ],
+  "status": "final"
+  },
+
+
+  
   {
     "year": "2017",
     "title": "Logistics Data Cloud",
