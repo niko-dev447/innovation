@@ -1,4 +1,32 @@
 [
+  
+  {
+  "year": "2025",
+  "title": "Digitalisierungsstrategie mit Lobster – Plattform, Orchestrierung und KI",
+  "context": "TWXpress / VdWT Interview",
+  "cat": "strategy",
+  "medium": "Interview",
+  "desc": "Umfangreiches Fachinterview zur strategischen Positionierung von Lobster als No-Code Business Process Orchestration Plattform. Thematisiert werden Abgrenzung zu klassischen ERP-Customizing-Ansätzen, Integration von Real-Time-Visibility-Plattformen, Mobility Data Space, KI-gestützte Prozessoptimierung sowie die 3–5 Jahres-Roadmap hin zu Intelligent Process Automation (IPA) und selbstheilenden Prozessen.",
+  "source": [
+    {
+      "label": "TWXpress 11/2025 – Digitalisierungsstrategie mit Lobster",
+      "url": "./assets/TWXpress_Interview_2025.pdf",
+      "type": "interview"
+    }
+  ],
+  "tags": [
+    "No-Code",
+    "Business Process Orchestration",
+    "Supply Chain Digitalization",
+    "AI Integration",
+    "Mobility Data Space",
+    "Platform Strategy",
+    "Process Automation",
+    "Governance"
+  ],
+  "status": "final"
+  },
+  
   {
     "year": "2025",
     "title": "Making Sense of Supply Chain Chaos with Connected Data",
