@@ -1793,5 +1793,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2023",
+    "title": "Celonis and Lobster Launch Partnership – Statement by Niko Hossain, CEO Lobster Logistics Cloud",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "In der offiziellen Partnerschaftsankündigung zwischen Celonis und Lobster Logistics Cloud betont Niko Hossain, CEO von Lobster Logistics Cloud, die strategische Bedeutung der Integration von Echtzeit-Datenkonnektivität mit Prozessintelligenz. Ziel ist es, proaktives Entscheiden und messbaren ROI in der gesamten Supply Chain zu ermöglichen.",
+    "source": [
+      {
+        "label": "Quelle: Celonis and Lobster Launch Partnership – Statement by Niko Hossain, CEO Lobster Logistics Cloud",
+        "url": "https://www.celonis.com/news/press/where-data-connectivity-fuels-process-intelligence-lobster-and-celonis-launch-partnership",
+        "type": "document"
+      }
+    ]
   }
 ]
