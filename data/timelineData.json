@@ -1868,5 +1868,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2022",
+    "title": "logistics.cloud Featured as a Top 10 Logistics Technology by Logistics Tech Outlook Europe",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Das Branchenmagazin Logistics Tech Outlook Europe hat logistics.cloud 2022 als eine der Top 10 Logistiktechnologien ausgezeichnet. Im Feature erläutert Niko Hossain, CEO von Lobster Logistics Cloud, die zentrale Rolle der Plattform für Datenkonnektivität, Echtzeit-Transparenz und Workflow-Automatisierung in globalen Lieferketten.",
+    "source": [
+      {
+        "label": "Quelle: logistics.cloud Featured as a Top 10 Logistics Technology by Logistics Tech Outlook Europe",
+        "url": "https://www.logisticstechoutlookeurope.com/logistics-dotcloud",
+        "type": "document"
+      }
+    ]
   }
 ]
