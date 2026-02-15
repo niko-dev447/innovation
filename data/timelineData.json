@@ -1733,5 +1733,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2023",
+    "title": "Keynote bei Riege Inside Scope Jahresveranstaltung",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Keynote von Niko Hossain auf der Inside Scope Jahresveranstaltung von Riege Software in Düsseldorf. Thematische Schwerpunkte waren Plattformintegration, digitale Vernetzung und die Bedeutung von logistics.cloud im Partner-Ökosystem der Logistikbranche.",
+    "source": [
+      {
+        "label": "Quelle: Keynote bei Riege Inside Scope Jahresveranstaltung",
+        "url": "https://www.riege.com/de/ressourcen/blog/was-uns-bewegt-hat-was-wir-bewegt-haben",
+        "type": "document"
+      }
+    ]
   }
 ]
