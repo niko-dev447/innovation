@@ -1688,5 +1688,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2021",
+    "title": "Integration von logistics.cloud und NIC-Place zur Supply-Chain-Visibility",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Lobster logistics.cloud und NIC-Place integrieren ihre Schlüsseltechnologien, um die End-to-End-Supply-Chain-Visibility zu automatisieren. Die Lösung kombiniert Telematik- und Planungsdaten mit sensordatenbasierter Sichtbarkeit und ermöglicht intelligente ETA-Berechnung, Alarme und eine sichere Plattformintegration für multimodale Transporte.",
+    "source": [
+      {
+        "label": "Quelle: Integration von logistics.cloud und NIC-Place zur Supply-Chain-Visibility",
+        "url": "https://nic-place.com/press/logisticscloud/",
+        "type": "document"
+      }
+    ]
   }
 ]
