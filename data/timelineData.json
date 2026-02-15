@@ -1853,5 +1853,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2017",
+    "title": "IoT Tech Expo Europe 2017 – Speaker Niko Hossain",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Auf der IoT Tech Expo Europe 2017 in Berlin trat Niko Hossain, Senior PM und stellvertretender Leiter für Automatisierung & Digitalisierung bei Lufthansa Cargo, als Speaker neben über 300 Branchenführern auf. Die Konferenz behandelte Themen wie Smart Cities, IIoT, Datenanalyse, Sicherheit & Datenschutz, Fertigung und Supply Chain.",
+    "source": [
+      {
+        "label": "Quelle: IoT Tech Expo Europe 2017 – Speaker Niko Hossain",
+        "url": "https://via.ritzau.dk/pressemeddelelse/10339812/iot-tech-expo?publisherId=90456",
+        "type": "document"
+      }
+    ]
   }
 ]
