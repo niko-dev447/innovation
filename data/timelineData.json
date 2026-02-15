@@ -1629,6 +1629,7 @@
       "#EU-Law"
     ]
   },
+
   {
     "year": "2024",
     "title": "Logistik: Datenintegration vereinfachen",
@@ -1637,14 +1638,17 @@
     "medium": "Web-App",
     "desc": "Logward und Lobster Logistics Cloud haben eine strategische Partnerschaft geschlossen, um durch vereinfachte Datenintegration die Effizienz entlang der gesamten Logistikkette zu steigern. Ziel ist es, administrative Aufwände und Wartungskosten zu reduzieren sowie die Agilität und Flexibilität logistischer Prozesse zu verbessern.",
     "source": [
-
       {
-        "label": "Quelle: Verkehsrundschau"
-        "url": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/logistik-datenintegration-vereinfachen-3498198"
+        "label": "Quelle: Verkehsrundschau",
+        "url": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/logistik-datenintegration-vereinfachen-3498198",
         "type": "Article"
       }
-        ]
-  },
+    ]
+},
+
+
+
+    
   {
     "year": "2024",
     "title": "DVZ TMS Konferenz: Wie die Netze Daten selbst austauschen",
