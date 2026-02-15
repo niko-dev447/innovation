@@ -1900,18 +1900,31 @@
     ]
   },
   {
-    "year": "2018",
-    "title": "Supply Chain Days Heidelberg – Expert Contribution by Niko Hossain on Digital Supply Chains",
-    "context": "KI-Extraktion",
-    "cat": "strategy",
-    "medium": "Web-App",
-    "desc": "Bei den 12. Supply Chain Days in Heidelberg diskutierten über 120 Experten, Manager und Wissenschaftler die Zukunft des Supply Chain Managements im digitalen Wandel. Niko Hossain steuerte Fachbeiträge zu digitaler Vernetzung, IoT-Integration und dem Austausch von Echtzeitdaten bei, die Supply-Chain-Ökosysteme grundlegend verändern.",
-    "source": [
-      {
-        "label": "Quelle: Supply Chain Days Heidelberg – Expert Contribution by Niko Hossain on Digital Supply Chains",
-        "url": "Die Zukunft der Supply Chain haben jüngst mehr als 120 Experten, Manager und Wissenschaftler in Heidelberg bei den zwölften Supply Chain Days diskutiert. Im Fokus: Wie die Digitalisierung das Supply-Chain-Management der Unternehmen verändert. Eingeladen zu der zweitägigen Fachkonferenz hatte die Prüfungs- und Beratungsgesellschaft EY.",
-        "type": "document"
-      }
+  "year": "2018",
+  "title": "Supply Chain Days Heidelberg – Vortrag von Niko Hossain zur Echtzeit-Datenintegration in der Logistik",
+  "context": "12th Supply Chain Days, Heidelberg (Hosted by EY)",
+  "cat": "event",
+  "medium": "Conference / Expert Presentation",
+  "desc": "At the 12th Supply Chain Days in Heidelberg, hosted by EY and attended by more than 120 experts, managers and academics, Niko Hossain, Senior Manager Group Digital Strategy, Innovation and Transformation at Lufthansa Group, addressed the critical role of speed in supply chain management. In his presentation, he emphasized that collaboration and real-time data exchange are decisive success factors in logistics. He outlined how Lufthansa, together with strategic partners, developed a cloud-based solution to enhance quality, efficiency and operational agility across supply chain processes.",
+  "source": [
+    {
+      "label": "Umweltdialog – Supply Chain der Zukunft: Digital, intelligent und vernetzt (2018)",
+      "url": "https://www.umweltdialog.de/de/WIRTSCHAFT/lieferkette/2018/Supply-Chain-der-Zukunft-Digital-intelligent-und-vernetzt.php"
+    }
+  ],
+  "tags": [
+    "Supply Chain Days",
+    "EY",
+    "Lufthansa Group",
+    "Niko Hossain",
+    "Digital Strategy",
+    "Real-Time Data",
+    "Cloud Solution",
+    "Collaboration",
+    "Supply Chain Transformation"
+  ],
+  "status": "final"
+  }
     ]
   }
 ]
