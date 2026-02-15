@@ -1883,5 +1883,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2021",
+    "title": "Deutscher Logistik-Kongress 2021 – Presentation by Niko Hossain, CEO Lobster Logistics Cloud",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Beim Deutschen Logistik-Kongress 2021 in Berlin präsentierte Niko Hossain, CEO von Lobster Logistics Cloud, in einer Fachsession zum Thema 'Logistics as a Service for everyone with platform-based data integration'. Im Fokus standen transparenter Datenaustausch, erhöhte Sichtbarkeit und modulare Integration für Verlader, Spediteure, Carrier und Zollbehörden über eine zentrale Plattform.",
+    "source": [
+      {
+        "label": "Quelle: Deutscher Logistik-Kongress 2021 – Presentation by Niko Hossain, CEO Lobster Logistics Cloud",
+        "url": "https://www.firmenpresse.de/pressinfo1929616-ueber-nur-eine-anbindung-mit-allen-logistik-partnern-und-loesungen-vernetzt.html",
+        "type": "document"
+      }
+    ]
   }
 ]
