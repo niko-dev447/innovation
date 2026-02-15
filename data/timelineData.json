@@ -1718,5 +1718,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2010",
+    "title": "Internet of Things Conference 2010 – \"IoT for a Green Planet\"",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Internationale Fachkonferenz in Tokyo zu IoT-Technologien mit Schwerpunkt auf Architektur, Standards und nachhaltigen Anwendungen des Internet of Things. Führende Experten aus Wissenschaft und Industrie diskutierten Herausforderungen und Lösungen für ein vernetztes, grünes IoT.",
+    "source": [
+      {
+        "label": "Quelle: Internet of Things Conference 2010 – \"IoT for a Green Planet\"",
+        "url": "https://public/events/internet-of-things-conference-2010-tokyo-japan/",
+        "type": "document"
+      }
+    ]
   }
 ]
