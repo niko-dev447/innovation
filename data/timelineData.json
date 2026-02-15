@@ -1630,31 +1630,20 @@
     ]
   },
   {
-    "year": "2026",
-    "title": "Pipeline Test 15. Februar",
-    "context": "System-Check",
-    "cat": "strategy",
-    "medium": "Web",
-    "desc": "Dies ist ein automatischer Test, um zu sehen, ob die Web-App erfolgreich in das JSON-File auf GitHub schreibt.",
-    "source": []
-  },
-  {
-    "year": "2026",
-    "title": "Pipeline Test 15. Februar",
-    "context": "System-Check",
-    "cat": "strategy",
-    "medium": "Web-App",
-    "desc": "Dies ist ein automatischer Test, um zu sehen, ob die Web-App erfolgreich in das JSON-File auf GitHub schreibt.",
-    "source": []
-  },
-  {
     "year": "2024",
     "title": "Logistik: Datenintegration vereinfachen",
     "context": "KI-Extraktion",
     "cat": "strategy",
     "medium": "Web-App",
     "desc": "Logward und Lobster Logistics Cloud haben eine strategische Partnerschaft geschlossen, um durch vereinfachte Datenintegration die Effizienz entlang der gesamten Logistikkette zu steigern. Ziel ist es, administrative Aufwände und Wartungskosten zu reduzieren sowie die Agilität und Flexibilität logistischer Prozesse zu verbessern.",
-    "source": []
+    "source": [
+
+      {
+        "label": "Quelle: Verkehsrundschau"
+        "url": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/logistik-datenintegration-vereinfachen-3498198"
+        "type": "Article"
+      }
+        ]
   },
   {
     "year": "2024",
