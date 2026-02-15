@@ -1838,5 +1838,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2008",
+    "title": "Internet of Things in 2020 – EC/EPoSS Workshop Roadmap (Workshop Participant: Niko Hossain, Fraunhofer IML)",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Roadmap-Report zum EC/EPoSS-Expertenworkshop 'Beyond RFID – The Internet of Things' (Februar 2008) in Brüssel. Der Bericht fasst frühe IoT-Visionen und Forschungsschwerpunkte bis 2020 zusammen, darunter RFID als Basis, eindeutige Adressierung, Interoperabilität, Governance und Sicherheit. Niko Hossain nahm als Vertreter des Fraunhofer IML offiziell teil.",
+    "source": [
+      {
+        "label": "Quelle: Internet of Things in 2020 – EC/EPoSS Workshop Roadmap (Workshop Participant: Niko Hossain, Fraunhofer IML)",
+        "url": "https://docbox.etsi.org/erm/Open/CERP%2020080609-10/Internet-of-Things_in_2020_EC-EPoSS_Workshop_Report_2008_v1-1.pdf",
+        "type": "document"
+      }
+    ]
   }
 ]
