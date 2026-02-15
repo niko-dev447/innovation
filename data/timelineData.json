@@ -1703,5 +1703,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2021",
+    "title": "6. Air Cargo Conference – Vortrag von Niko Hossain zu logistics.cloud",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Bei der 6. Air Cargo Conference am Flughafen Frankfurt präsentierte Niko Hossain, Managing Director von logistics.cloud, wie Datenintegration das Servicelevel in der Luftfracht steigert. Die Konferenz brachte Experten aus Praxis und Forschung zur Digitalisierung und Innovation im Bereich Luftfracht zusammen.",
+    "source": [
+      {
+        "label": "Quelle: 6. Air Cargo Conference – Vortrag von Niko Hossain zu logistics.cloud",
+        "url": "https://idw-online.de/de/news773875",
+        "type": "document"
+      }
+    ]
   }
 ]
