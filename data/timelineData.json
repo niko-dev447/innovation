@@ -1887,44 +1887,52 @@
   {
     "year": "2021",
     "title": "Deutscher Logistik-Kongress 2021 – Presentation by Niko Hossain, CEO Lobster Logistics Cloud",
-    "context": "KI-Extraktion",
-    "cat": "strategy",
-    "medium": "Web-App",
+    "context": "Deutscher Logistik-Kongress, Berlin",
+    "cat": "event",
+    "medium": "Conference / Presentation",
     "desc": "Beim Deutschen Logistik-Kongress 2021 in Berlin präsentierte Niko Hossain, CEO von Lobster Logistics Cloud, in einer Fachsession zum Thema 'Logistics as a Service for everyone with platform-based data integration'. Im Fokus standen transparenter Datenaustausch, erhöhte Sichtbarkeit und modulare Integration für Verlader, Spediteure, Carrier und Zollbehörden über eine zentrale Plattform.",
     "source": [
       {
-        "label": "Quelle: Deutscher Logistik-Kongress 2021 – Presentation by Niko Hossain, CEO Lobster Logistics Cloud",
+        "label": "firmenpresse.de – Deutscher Logistik-Kongress 2021",
         "url": "https://www.firmenpresse.de/pressinfo1929616-ueber-nur-eine-anbindung-mit-allen-logistik-partnern-und-loesungen-vernetzt.html",
-        "type": "document"
+        "type": "article"
       }
-    ]
+    ],
+    "tags": [
+      "Deutscher Logistik-Kongress",
+      "BVL",
+      "Conference",
+      "Niko Hossain",
+      "Lobster Logistics Cloud",
+      "Platform Integration",
+      "Supply Chain Visibility"
+    ],
+    "status": "final"
   },
   {
-  "year": "2018",
-  "title": "Supply Chain Days Heidelberg – Vortrag von Niko Hossain zur Echtzeit-Datenintegration in der Logistik",
-  "context": "12th Supply Chain Days, Heidelberg (Hosted by EY)",
-  "cat": "event",
-  "medium": "Conference / Expert Presentation",
-  "desc": "At the 12th Supply Chain Days in Heidelberg, hosted by EY and attended by more than 120 experts, managers and academics, Niko Hossain, Senior Manager Group Digital Strategy, Innovation and Transformation at Lufthansa Group, addressed the critical role of speed in supply chain management. In his presentation, he emphasized that collaboration and real-time data exchange are decisive success factors in logistics. He outlined how Lufthansa, together with strategic partners, developed a cloud-based solution to enhance quality, efficiency and operational agility across supply chain processes.",
-  "source": [
-    {
-      "label": "Umweltdialog – Supply Chain der Zukunft: Digital, intelligent und vernetzt (2018)",
-      "url": "https://www.umweltdialog.de/de/WIRTSCHAFT/lieferkette/2018/Supply-Chain-der-Zukunft-Digital-intelligent-und-vernetzt.php"
-    }
-  ]
-  "tags": [
-    "Supply Chain Days",
-    "EY",
-    "Lufthansa Group",
-    "Niko Hossain",
-    "Digital Strategy",
-    "Real-Time Data",
-    "Cloud Solution",
-    "Collaboration",
-    "Supply Chain Transformation"
-  ]
-  "status": "final"
-  },
-    ]
+    "year": "2018",
+    "title": "Supply Chain Days Heidelberg – Vortrag von Niko Hossain zur Echtzeit-Datenintegration in der Logistik",
+    "context": "12th Supply Chain Days, Heidelberg (Hosted by EY)",
+    "cat": "event",
+    "medium": "Conference / Expert Presentation",
+    "desc": "At the 12th Supply Chain Days in Heidelberg, hosted by EY and attended by more than 120 experts, managers and academics, Niko Hossain, Senior Manager Group Digital Strategy, Innovation and Transformation at Lufthansa Group, addressed the critical role of speed in supply chain management. In his presentation, he emphasized that collaboration and real-time data exchange are decisive success factors in logistics. He outlined how Lufthansa, together with strategic partners, developed a cloud-based solution to enhance quality, efficiency and operational agility across supply chain processes.",
+    "source": [
+      {
+        "label": "Umweltdialog – Supply Chain der Zukunft: Digital, intelligent und vernetzt (2018)",
+        "url": "https://www.umweltdialog.de/de/WIRTSCHAFT/lieferkette/2018/Supply-Chain-der-Zukunft-Digital-intelligent-und-vernetzt.php"
+      }
+    ],
+    "tags": [
+      "Supply Chain Days",
+      "EY",
+      "Lufthansa Group",
+      "Niko Hossain",
+      "Digital Strategy",
+      "Real-Time Data",
+      "Cloud Solution",
+      "Collaboration",
+      "Supply Chain Transformation"
+    ],
+    "status": "final"
   }
 ]
