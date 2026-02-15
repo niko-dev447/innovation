@@ -1655,5 +1655,20 @@
     "medium": "Web-App",
     "desc": "Logward und Lobster Logistics Cloud haben eine strategische Partnerschaft geschlossen, um durch vereinfachte Datenintegration die Effizienz entlang der gesamten Logistikkette zu steigern. Ziel ist es, administrative Aufwände und Wartungskosten zu reduzieren sowie die Agilität und Flexibilität logistischer Prozesse zu verbessern.",
     "source": []
+  },
+  {
+    "year": "2024",
+    "title": "DVZ TMS Konferenz: Wie die Netze Daten selbst austauschen",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Der Artikel behandelt, wie moderne Netzwerke und Softwarelösungen im Transportwesen den automatisierten und selbstständigen Datenaustausch ermöglichen. Es wird aufgezeigt, welche Technologien dabei zum Einsatz kommen und welche Vorteile dies für die Logistikbranche bringt.",
+    "source": [
+      {
+        "label": "Quelle: DVZ TMS Konferenz: Wie die Netze Daten selbst austauschen",
+        "url": "https://www.dvz.de/technologie/software/detail/news/transport-wie-die-netze-daten-selbst-austauschen.html",
+        "type": "document"
+      }
+    ]
   }
 ]
