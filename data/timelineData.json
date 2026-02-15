@@ -1808,5 +1808,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2021",
+    "title": "Presentation by Niko Hossain at Deutscher Logistik-Kongress 2021",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Beim Deutschen Logistik-Kongress 2021 in Berlin hielt Niko Hossain, CEO von Lobster Logistics Cloud, eine offizielle Präsentation im Rahmen des Programms. Die Session war laut BVL-Programm mit konkreter Zeit, Ort und Titel gelistet und integrierte Einblicke zu logistics.cloud in die Kongressagenda.",
+    "source": [
+      {
+        "label": "Quelle: Presentation by Niko Hossain at Deutscher Logistik-Kongress 2021",
+        "url": "https://www.bvl.de/files/1951/2142/2835/BVL_Deutscher_Logistik-Kongress_2021_Programm.pdf",
+        "type": "document"
+      }
+    ]
   }
 ]
