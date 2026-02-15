@@ -1629,7 +1629,6 @@
       "#EU-Law"
     ]
   },
-
   {
     "year": "2024",
     "title": "Logistik: Datenintegration vereinfachen",
@@ -1644,11 +1643,7 @@
         "type": "Article"
       }
     ]
-},
-
-
-
-    
+  },
   {
     "year": "2024",
     "title": "DVZ TMS Konferenz: Wie die Netze Daten selbst austauschen",
@@ -1660,6 +1655,21 @@
       {
         "label": "Quelle: DVZ TMS Konferenz: Wie die Netze Daten selbst austauschen",
         "url": "https://www.dvz.de/technologie/software/detail/news/transport-wie-die-netze-daten-selbst-austauschen.html",
+        "type": "document"
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "title": "Fachkräfte von morgen – Lobster Logistics Cloud im IHK München Magazin",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Im IHK Magazin 05/2023 wird Niko Hossain, Geschäftsführer der Lobster Logistics Cloud GmbH, im Kontext digitaler Logistiklösungen und Fachkräftethemen vorgestellt. Der Artikel diskutiert die Bedeutung digitaler Plattformen und Kompetenzen für die Zukunft der Supply Chain und des Arbeitsmarktes.",
+    "source": [
+      {
+        "label": "Quelle: Fachkräfte von morgen – Lobster Logistics Cloud im IHK München Magazin",
+        "url": "https://www.ihk-muenchen.de/Magazin-Bilder/Archiv-Web_PDF/2023/IHK_0523_web.pdf",
         "type": "document"
       }
     ]
