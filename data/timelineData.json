@@ -1823,5 +1823,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2012",
+    "title": "Internet of Things Conference 2012 – Industrial Workshop Speaker",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Bei der 3rd International Conference on the Internet of Things (IoT2012) in Wuxi, China, war Niko Hossain Sprecher beim Industrial Workshop 'IoT in Industry: Experience, Trends, Challenges'. Seine Session hob die Bedeutung der Förderung von IoT-Technologien in der Logistik hervor, um die zukünftige europäische Marktführerschaft zu sichern, und spiegelte frühe Arbeiten zur IoT-Anwendung in der Logistik wider.",
+    "source": [
+      {
+        "label": "Quelle: Internet of Things Conference 2012 – Industrial Workshop Speaker",
+        "url": "https://iot-conference.org/iot2012/pagedf0b.html?id=162",
+        "type": "document"
+      }
+    ]
   }
 ]
