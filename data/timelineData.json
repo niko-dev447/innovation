@@ -1673,5 +1673,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2023",
+    "title": "Gastvortrag \"logistics.cloud – von einer innovativen Idee zum globalen Logistikdatennetzwerk!\"",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Gastvortrag von Niko Hossain an der Universität Regensburg im Rahmen einer Bachelorvorlesung zur Logistik. Der Vortrag beleuchtet die Vision, Entwicklung und strategischen Ansätze der logistics.cloud als innovatives Logistikdatennetzwerk mit Fokus auf Datenintegration und Plattformentwicklung.",
+    "source": [
+      {
+        "label": "Quelle: Gastvortrag \"logistics.cloud – von einer innovativen Idee zum globalen Logistikdatennetzwerk!\"",
+        "url": "https://www.uni-regensburg.de/assets/wirtschaftswissenschaften/bwl-otto/hossain.pdf",
+        "type": "document"
+      }
+    ]
   }
 ]
