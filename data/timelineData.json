@@ -1748,5 +1748,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2013",
+    "title": "ID World Magazine – Interview on Auto-ID Technologies and Innovation in Air Cargo",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Interview mit Niko Hossain, damals Senior Manager bei Lufthansa Cargo, über RFID- und Auto-ID-Technologien, Innovationsinitiativen und die Bedeutung vernetzter Systeme in der europäischen Luftfrachtlogistik.",
+    "source": [
+      {
+        "label": "Quelle: ID World Magazine – Interview on Auto-ID Technologies and Innovation in Air Cargo",
+        "url": "https://www.id-world-magazine.com/id-people/?p=71",
+        "type": "document"
+      }
+    ]
   }
 ]
