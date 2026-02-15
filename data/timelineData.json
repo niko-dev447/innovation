@@ -1778,5 +1778,20 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2006",
+    "title": "AutoMiPro – Logistics Concept for Automated Micro-Production",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "AutoMiPro war eine bundesgeförderte Forschungsinitiative zur Entwicklung eines integrierten Logistikkonzepts für automatisierte Mikrofertigungsumgebungen. Das Projekt vereinte Lager-, Transport- und Anlagentechnologien mit Softwareintegration für einen nahtlosen Materialfluss. Eine wesentliche Innovation war die Nutzung von RFID-Technologie, um sowohl Routing- als auch produktionsrelevante Daten direkt auf Ladungsträgern zu speichern und so eine durchgängige digitale Rückverfolgbarkeit im Fertigungsprozess zu ermöglichen.",
+    "source": [
+      {
+        "label": "Quelle: AutoMiPro – Logistics Concept for Automated Micro-Production",
+        "url": "https://www.ipt.fraunhofer.de/de/projekte/automipro.html",
+        "type": "document"
+      }
+    ]
   }
 ]
