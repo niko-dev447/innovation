@@ -1934,5 +1934,20 @@
       "Supply Chain Transformation"
     ],
     "status": "final"
+  },
+  {
+    "year": "2010",
+    "title": "EPoSS Annual Forum 2010 Lisbon – smaRT ULD: Energieeffiziente Integration intelligenter Systeme für den Luftfrachtbehälter der Zukunft",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Vortrag beim EPoSS Annual Forum 2010 in Lissabon zum Projekt 'smaRT ULD'. Im Mittelpunkt stand die energieeffiziente Integration intelligenter Systeme in Luftfrachtbehälter (ULD), einschließlich Sensorik, Embedded Intelligence und energiearmer Systemarchitekturen. Ziel war es, Transparenz, Sicherheit und Effizienz in logistischen Prozessen zu steigern und damit einen frühen Vorläufer moderner Smart-Container- und IoT-Logistiklösungen vorzustellen.",
+    "source": [
+      {
+        "label": "Quelle: EPoSS Annual Forum 2010 Lisbon – smaRT ULD: Energieeffiziente Integration intelligenter Systeme für den Luftfrachtbehälter der Zukunft",
+        "url": "https://www.smart-systems-integration.org/",
+        "type": "document"
+      }
+    ]
   }
 ]
