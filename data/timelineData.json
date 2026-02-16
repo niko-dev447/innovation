@@ -1949,5 +1949,30 @@
         "type": "document"
       }
     ]
+  },
+  {
+    "year": "2011",
+    "title": "Alliance of Scientific Organizations – \"Researching: Communications\" (IoT Section Contributor: Niko Hossain, Fraunhofer IML)",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "In the Alliance brochure \"Researching: Communications\" (English edition, July 2011), Niko Hossain (Fraunhofer Institute for Material Flow and Logistics IML) is listed as the contributor for the section \"The Internet of Things – Networking objects\". The section describes IoT as the virtual networking of industrial and everyday objects and highlights applications including logistics, as well as research toward a cross-application IoT reference architecture.",
+    "source": [
+      {
+        "label": "Alliance of Scientific Organizations – Researching: Communications (PDF, July 2011)",
+        "url": "https://www.mpg.de/9075551/alliance-researching-communications.pdf",
+        "type": "Article"
+      }
+    ],
+    "tags": [
+      "Niko Hossain",
+      "Fraunhofer IML",
+      "Internet of Things",
+      "IoT Architecture",
+      "Research",
+      "Logistics",
+      "Alliance of German Science Organisations"
+    ],
+    "status": "done"
   }
 ]
