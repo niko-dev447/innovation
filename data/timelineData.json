@@ -1974,5 +1974,30 @@
       "Alliance of German Science Organisations"
     ],
     "status": "done"
+  },
+  {
+    "year": "2007",
+    "title": "Germany Cluster Symposium – Vortrag zu RFID & IoT Logistics (Chungbuk Technopark, South Korea)",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Vortrag von Niko Hossain (Fraunhofer Institute for Material Flow and Logistics IML) beim Germany Cluster Symposium im Chungbuk Technopark, Südkorea. Präsentiert wurden frühe RFID- und Internet-of-Things-Konzepte zur programmierbaren Datenträger-Integration („Smart Tags“) sowie deren Bedeutung für intelligente, vernetzte Logistiksysteme und internationale Technologiekooperationen.",
+    "source": [
+      {
+        "label": "Chungbuk Technopark, Germany Cluster Symposium (04.03.2007)",
+        "url": "./assets/chungbuk_technopark_2007.jpg",
+        "type": "Article"
+      }
+    ],
+    "tags": [
+      "Fraunhofer IML",
+      "RFID",
+      "Internet of Things",
+      "International Conference",
+      "South Korea",
+      "Cluster Symposium",
+      "Technology Transfer"
+    ],
+    "status": "done"
   }
 ]
