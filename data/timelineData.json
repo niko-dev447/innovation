@@ -2022,5 +2022,30 @@
       "Lufthansa Cargo"
     ],
     "status": "done"
+  },
+  {
+    "year": "2021",
+    "title": "Digital Hub Logistics Award 2021 - 2nd place",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "logistics.cloud erzielt den zweiten Platz beim Digital Hub Logistics Award 2021 im Rahmen der deutschen de:hub-Initiative. Der Award würdigt innovative digitale Geschäftsmodelle und Plattformlösungen im Logistik-Ökosystem. Niko Hossain repräsentiert logistics.cloud als CEO bei der Preisverleihung.",
+    "source": [
+      {
+        "label": "Digital Hub Logistics Award 2021",
+        "url": "https://digitalhublogistics.de/award-2021/",
+        "type": "Article"
+      }
+    ],
+    "tags": [
+      "Digital Hub Logistics",
+      "de:hub Initiative",
+      "Award",
+      "2nd Place",
+      "Startup",
+      "logistics.cloud",
+      "Innovation"
+    ],
+    "status": "todo"
   }
 ]
