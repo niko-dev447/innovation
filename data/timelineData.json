@@ -1999,5 +1999,28 @@
       "Technology Transfer"
     ],
     "status": "done"
+  },
+  {
+    "year": "2015",
+    "title": "EffizienzCluster Award – Auszeichnung für Innovationsbeiträge in der Logistik",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Niko Hossain erhält im Kontext des EffizienzCluster LogistikRuhr eine Auszeichnung für Beiträge zur digitalen Weiterentwicklung logistischer Systeme während seiner Tätigkeit bei Lufthansa Cargo. Der EffizienzCluster gilt als eine der bedeutendsten deutschen Logistik-Initiativen im Bereich Digitalisierung, Vernetzung und technologischer Innovation.",
+    "source": [
+      {
+        "label": "FOM Blog – EffizienzCluster Award",
+        "url": "https://www.fom-blog.de/2015/05/effizienzcluster-award-fuer-prof-dr-klumpp",
+        "type": "Article"
+      }
+    ],
+    "tags": [
+      "EffizienzCluster LogistikRuhr",
+      "Industry Award",
+      "Digital Logistics",
+      "Innovation",
+      "Lufthansa Cargo"
+    ],
+    "status": "done"
   }
 ]
