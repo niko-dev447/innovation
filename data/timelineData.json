@@ -2047,5 +2047,29 @@
       "Innovation"
     ],
     "status": "todo"
+  },
+  {
+    "year": "2006",
+    "title": "Das Internet der Dinge – Erfolgsstrategien für den Mittelstand",
+    "context": "KI-Extraktion",
+    "cat": "strategy",
+    "medium": "Web-App",
+    "desc": "Vortrag von Niko Hossain im Rahmen des Workshops „Verpackungsinnovation durch Normung“ am 30. November 2006 in Karlsruhe. Der Beitrag adressiert strategische Erfolgsfaktoren des Internet der Dinge (IoT) für den Mittelstand und thematisiert frühe Konzepte zur Integration intelligenter, vernetzter Objekte in industrielle Logistik- und Produktionsumgebungen.",
+    "source": [
+      {
+        "label": "Fraunhofer Publica – Official Record",
+        "url": "https://publica.fraunhofer.de/entities/publication/e21d901b-ff30-4d1c-8cd7-7d91ff5851e6",
+        "type": "Article"
+      }
+    ],
+    "tags": [
+      "Internet of Things",
+      "IoT Strategy",
+      "SME Digitalization",
+      "Fraunhofer IML",
+      "Conference",
+      "Industry 4.0 (early phase)"
+    ],
+    "status": "done"
   }
 ]
