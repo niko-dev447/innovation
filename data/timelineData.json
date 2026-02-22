@@ -2071,5 +2071,32 @@
       "Industry 4.0 (early phase)"
     ],
     "status": "done"
+  
+  {
+  "year": "2011",
+  "title": "„Wir wollen die Fracht sprechen lassen“ – Dortmunder Gespräche",
+  "context": "29. Dortmunder Gespräche / Fraunhofer IML",
+  "cat": "lufthansa",
+  "medium": "Industry Conference / Press Coverage",
+  "desc": "Im Rahmen der 29. Dortmunder Gespräche wird Niko Hossain (ehemals Fraunhofer IML, später Lufthansa Cargo) im Branchenbericht zitiert. In Bezug auf selbststeuernde Logistikobjekte und intelligente Luftfrachtcontainer formuliert er die Vision: „Wir wollen die Fracht sprechen lassen.“ Der Beitrag thematisiert Grundlagenforschung, IoT-Konzepte und intelligente Logistiksysteme.",
+  "source": [
+    {
+      "label": "MaschinenMarkt Online – Wissenschaftler fordern mehr Forschungsengagement von der Logistikwirtschaft (08.09.2011)",
+      "url": "./assets/Wissenschaftler_fordern_mehr_Forschungsengagement_von_der_Logistikwirtschaft.pdf",
+      "type": "press"
+    }
+  ],
+  "tags": [
+    "Niko Hossain",
+    "Fraunhofer IML",
+    "Lufthansa Cargo",
+    "Internet of Things",
+    "Smart Logistics",
+    "Dortmunder Gespräche",
+    "Air Cargo Innovation"
+  ],
+  "status": "final"
+}
+  
   }
 ]
