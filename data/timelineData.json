@@ -456,6 +456,43 @@
     ]
   },
   {
+  "year": "2021",
+  "title": "Hamburg 1 TV Feature – Digital Hub Logistics Hamburg: Platform Vision by Niko Hossain",
+  "context": "Hamburg 1 / Digital Hub Logistics Hamburg (Broadcast 26 March 2021)",
+  "cat": "lobster",
+  "medium": "Television Broadcast / YouTube",
+  "desc": "In the Hamburg 1 television feature \"It’s future – it’s digital\", the Digital Hub Logistics Hamburg presents startups from its ecosystem. logistics.cloud is featured starting at minute 26:18. In the segment, Niko Hossain outlines the strategic evolution from pure data exchange toward a service-enabled platform model, positioning logistics.cloud as a foundation for value-added digital services across supply chains.",
+  "quote": {
+    "text": "„Wir planen, über den Austausch von Daten alleine auch Services on top auf der Plattform anzubieten.“",
+    "timestamp": "29:01"
+  },
+  "appearance": {
+    "segment_start": "26:18",
+    "duration_total": "30:14",
+    "views_at_capture": 308,
+    "likes_at_capture": 5,
+    "upload_date": "2021-03-26"
+  },
+  "source": [
+    {
+      "label": "Hamburg 1 – Digital Hub Logistics Hamburg: It’s future – it’s digital (TV Feature)",
+      "url": "https://www.youtube.com/watch?v=YFbxIW_uhUw",
+      "type": "video"
+    }
+  ],
+  "tags": [
+    "Hamburg 1",
+    "Digital Hub Logistics",
+    "Platform Strategy",
+    "Ecosystem Model",
+    "Value-Added Services",
+    "logistics.cloud",
+    "Startup Ecosystem",
+    "TV Media"
+  ],
+  "status": "final"
+  },
+  {
     "year": "2021",
     "title": "Logistics as a Service for everyone with platform-based data integration",
     "context": "Deutscher Logistik-Kongress 2021 (hybrid, Berlin)",
