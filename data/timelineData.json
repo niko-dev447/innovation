@@ -350,6 +350,32 @@
     "status": "todo"
   },
   {
+  "year": "2022",
+  "title": "DVZ Feature: 'Eine Datenplattform, die alle verbindet' – Interview with Niko Hossain, CEO Lobster Logistics Cloud",
+  "context": "DVZ – Deutsche Verkehrs-Zeitung (22.02.2022)",
+  "cat": "lobster",
+  "medium": "Industry Press / Feature Article",
+  "desc": "In a DVZ feature article, Niko Hossain, CEO of Lobster Logistics Cloud, outlines the strategic vision behind the No-Code-based data platform 'Logistics Cloud'. The article highlights the platform’s standardized API architecture, real-time data enrichment and multimodal capability across air, rail, sea and road transport. The solution, developed as a joint initiative with major industry players including Lufthansa Cargo, Schaeffler and Siemens Healthineers, is positioned as a pioneer in complex supply chain integration and plug-and-play connectivity.",
+  "source": [
+    {
+      "label": "DVZ – Eine Datenplattform, die alle verbindet (22.02.2022)",
+      "url": "./assets/Eine_Datenplattform_die_alle_verbindet_DVZ_2022.pdf",
+      "type": "press"
+    }
+  ],
+  "tags": [
+    "DVZ",
+    "Logistics Cloud",
+    "No-Code",
+    "API Architecture",
+    "Supply Chain Integration",
+    "Lufthansa Cargo",
+    "Multimodal Transport",
+    "Digital Transformation"
+  ],
+  "status": "final"
+  },
+  {
     "year": "2022",
     "title": "KRONE Trailer Wochenplan: Start-up Pitch & Datenaustausch-Session mit logistics.cloud",
     "context": "KRONE IAA Microsite »Mission Beyond Zero«",
