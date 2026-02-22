@@ -2098,4 +2098,29 @@
   ],
   "status": "final"
 }
+
+  {
+  "year": "2019",
+  "title": "Swiss Air Freight Conference 2019 – Presentation by Niko Hossain on Digital Transformation in Air Cargo",
+  "context": "Swiss Shippers’ Council – Pack, Ship, Track (Interlaken)",
+  "cat": "lufthansa",
+  "medium": "Conference Presentation",
+  "desc": "At the Swiss Air Freight Conference 2019 (Pack, Ship, Track) in Interlaken, Niko Hossain, Senior Manager Group Digital Strategy, Innovation and Transformation at Lufthansa AG, presented an outlook on the impact of digitalization and emerging technologies on air cargo and supply chain processes. His contribution focused on structural transformation driven by Industry 4.0, digital data exchange and technological acceleration in logistics ecosystems.",
+  "source": [
+    {
+      "label": "Swiss Shippers’ Council – Schweizer Luftfracht Konferenz 2019 (Conference Report PDF)",
+      "url": "./assets/SSC_Luft_Schifffahrt_2019.pdf",
+      "type": "conference-report"
+    }
+  ],
+  "tags": [
+    "Air Cargo",
+    "Digital Transformation",
+    "Lufthansa Group",
+    "Industry 4.0",
+    "Conference",
+    "Swiss Shippers Council"
+  ],
+  "status": "final"
+}
 ]
