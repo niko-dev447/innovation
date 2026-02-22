@@ -1239,6 +1239,45 @@
     ],
     "status": "draft"
   },
+
+  {
+  "year": "2010",
+  "title": "DyCoNet – Dynamisches, autonomes, energieautarkes Container-Netzwerk in der Luftfrachtindustrie",
+  "context": "AUTONOMIK Auftaktkonferenz, Berlin (17.05.2010)",
+  "cat": "research",
+  "medium": "Conference Presentation / Federal Innovation Program",
+  "desc": "At the AUTONOMIK kickoff conference in Berlin on May 17, 2010, Markus Witte (Lufthansa Cargo AG) and Nico Hossain (Fraunhofer IML) presented DyCoNet – a dynamic, autonomous and energy self-sufficient container network for the air cargo industry. The federally funded AUTONOMIK project focused on intelligent load carriers capable of autonomous communication, distributed control and energy-independent operation within global logistics networks. DyCoNet anticipated core concepts of cyber-physical systems and later Industry 4.0 architectures.",
+  "participants": [
+    "Markus Witte – Lufthansa Cargo AG",
+    "Nico Hossain – Fraunhofer IML"
+  ],
+  "source": [
+    {
+      "label": "AUTONOMIK Auftaktkonferenz Berlin – Video Recording (17.05.2010)",
+      "url": "https://youtu.be/Ec6MTsk1geY",
+      "type": "video"
+    },
+    {
+      "label": "Bundesministerium für Wirtschaft – AUTONOMIK Projekt DyCoNet",
+      "url": "https://www.digitale-technologien.de/DT/Redaktion/DE/Standardartikel/AutonomikProjekte/autonomik_projekt-dyconet.html",
+      "type": "official-project-page"
+    }
+  ],
+  "tags": [
+    "AUTONOMIK",
+    "DyCoNet",
+    "Federal Innovation Program",
+    "Autonomous Systems",
+    "Energy Autonomous Containers",
+    "Air Cargo Innovation",
+    "Fraunhofer IML",
+    "Lufthansa Cargo",
+    "Cyber-Physical Logistics",
+    "Industry 4.0 Precursor"
+  ],
+  "status": "final"
+  },
+  
   {
     "year": "2010",
     "title": "Policy & Standards: Mitarbeit in der European RFID Expert Group (EREG)",
