@@ -2098,6 +2098,32 @@
   ],
   "status": "final"
 },
+{
+  "year": "2009",
+  "title": "Handelsblatt Feature: RFID System Development by Niko Hossain (Fraunhofer IML)",
+  "context": "Handelsblatt – Forschung & Innovation (09.09.2009)",
+  "cat": "fraunhofer",
+  "medium": "Press (National Business Media)",
+  "desc": "In a Handelsblatt feature on RFID applications in logistics, Niko Hossain is cited as IML developer responsible for designing and optimizing an RFID system for pallet tracking in challenging beverage logistics environments. The article highlights his approach of using advanced transponder chips combined with computer simulation to determine optimal chip placement on wooden pallets, enabling reliable multi-pallet scanning in real-world operations.",
+  "source": [
+    {
+      "label": "Handelsblatt – Funkchips erobern den Alltag (09.09.2009)",
+      "url": "./assets/RFID_Funkchips_erobern_den_Alltag_Handelsblatt_2009.pdf",
+      "type": "press"
+    }
+  ],
+  "tags": [
+    "RFID",
+    "Fraunhofer IML",
+    "Handelsblatt",
+    "Auto-ID",
+    "Simulation",
+    "Pallet Tracking",
+    "Industrial Innovation"
+  ],
+  "status": "final"
+},
+  
   {
   "year": "2019",
   "title": "Swiss Air Freight Conference 2019 – Presentation by Niko Hossain on Digital Transformation in Air Cargo",
