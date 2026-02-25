@@ -324,6 +324,34 @@
     ],
     "status": "todo"
   },
+{
+  "year": "2022",
+  "title": "KRONE Denkfabrik (Ausgabe 3): 'Logistics Cloud' – CEO Niko Hossain vorgestellt",
+  "context": "KRONE Denkfabrik Magazin, Ausgabe 3 – IAA 2022",
+  "cat": "lobster",
+  "medium": "Industry Magazine (Print / PDF)",
+  "desc": "Im KRONE Denkfabrik Magazin (Ausgabe 3) wird logistics.cloud auf Seite 20 als eines der ausgewählten Logistik-Start-ups vorgestellt. Der Beitrag nennt Niko Hossain explizit als CEO und beschreibt die Vision einer standardisierten, plattformbasierten Datenintegration zur Vernetzung fragmentierter IT-Systeme in der Logistik. Der Kontext ist die IAA 2022, bei der die ausgewählten Start-ups am KRONE-Stand präsentiert wurden.",
+  "source": [
+    {
+      "label": "KRONE Denkfabrik – Ausgabe 3, Seite 20 (IAA 2022)",
+      "url": "https://www.krone-trailer.com/fileadmin/media/magazin/krone-denkfabrik-ausgabe-3.pdf",
+      "type": "document",
+      "page": "20"
+    }
+  ],
+  "tags": [
+    "KRONE",
+    "Denkfabrik",
+    "IAA 2022",
+    "Startup Feature",
+    "Platform Strategy",
+    "Data Integration",
+    "logistics.cloud",
+    "CEO"
+  ],
+  "status": "final"
+},
+  
   {
     "year": "2022",
     "title": "IAA TRANSPORTATION: Präsentation logistics.cloud & Panel KRONE Denkfabrik",
