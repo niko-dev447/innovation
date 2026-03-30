@@ -490,11 +490,16 @@
   "context": "Logistics Tech Outlook Europe (July 2021 Edition)",
   "cat": "award",
   "medium": "Industry Magazine Feature",
-  "desc": "Niko Hossain, CEO of logistics.cloud, is featured in Logistics Tech Outlook Europe as part of the 'Top 10 Logistics Tech Startups in Europe 2021'. The article highlights the platform’s vendor-neutral approach to logistics data integration, enabling real-time collaboration across fragmented supply chains. It emphasizes the role of logistics.cloud in connecting planning and execution data, improving visibility, and enabling new digital services on top of shared data ecosystems.",
+  "desc": "Niko Hossain, CEO of logistics.cloud, is featured in Logistics Tech Outlook Europe as part of the 'Top 10 Logistics Tech Startups in Europe 2021'. The July 2021 print edition highlights logistics.cloud as a vendor-neutral data platform enabling seamless, real-time collaboration across fragmented global supply chains. The platform integrates planning and execution data, enhances visibility, and enables new digital services on top of shared data ecosystems.",
   "quote": "“We integrate different solutions into one platform and connect static planning data with real-time data.” – Niko Hossain",
   "source": [
     {
-      "label": "Logistics Tech Outlook Europe – Top 10 Logistics Tech Startups in Europe (July 2021)",
+      "label": "Logistics Tech Outlook Europe – Full Magazine (July 2021)",
+      "url": "https://www.logisticstechoutlookeurope.com/magazines/July2021/Logistics_Tech_Startups_Europe/#",
+      "type": "magazine"
+    },
+    {
+      "label": "Logistics Tech Outlook Europe – logistics.cloud Feature Article",
       "url": "https://www.logisticstechoutlookeurope.com/logistics-dotcloud",
       "type": "article"
     }
@@ -508,11 +513,14 @@
     "Platform Economy",
     "Data Integration",
     "Supply Chain Visibility",
-    "Real-Time Data"
+    "Real-Time Data",
+    "Industry Validation"
   ],
   "status": "final",
-  "highlight": true
+  "highlight": true,
+  "importance": "high"
 },
+
   
   {
   "year": "2021",
