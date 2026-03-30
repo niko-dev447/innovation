@@ -483,6 +483,37 @@
       "#Automation"
     ]
   },
+
+{
+  "year": "2021",
+  "title": "Top 10 Logistics Tech Startups in Europe – Niko Hossain (CEO logistics.cloud)",
+  "context": "Logistics Tech Outlook Europe (July 2021 Edition)",
+  "cat": "award",
+  "medium": "Industry Magazine Feature",
+  "desc": "Niko Hossain, CEO of logistics.cloud, is featured in Logistics Tech Outlook Europe as part of the 'Top 10 Logistics Tech Startups in Europe 2021'. The article highlights the platform’s vendor-neutral approach to logistics data integration, enabling real-time collaboration across fragmented supply chains. It emphasizes the role of logistics.cloud in connecting planning and execution data, improving visibility, and enabling new digital services on top of shared data ecosystems.",
+  "quote": "“We integrate different solutions into one platform and connect static planning data with real-time data.” – Niko Hossain",
+  "source": [
+    {
+      "label": "Logistics Tech Outlook Europe – Top 10 Logistics Tech Startups in Europe (July 2021)",
+      "url": "https://www.logisticstechoutlookeurope.com/logistics-dotcloud",
+      "type": "article"
+    }
+  ],
+  "tags": [
+    "Top 10",
+    "Startup Recognition",
+    "Logistics Tech Outlook",
+    "Niko Hossain",
+    "logistics.cloud",
+    "Platform Economy",
+    "Data Integration",
+    "Supply Chain Visibility",
+    "Real-Time Data"
+  ],
+  "status": "final",
+  "highlight": true
+},
+  
   {
   "year": "2021",
   "title": "Hamburg 1 TV Feature – Digital Hub Logistics Hamburg: Platform Vision by Niko Hossain",
